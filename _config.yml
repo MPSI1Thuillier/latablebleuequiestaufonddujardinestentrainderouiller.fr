@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: "Ne soyez pas esclave des noms de variable"
+description: "latablebleuequiestaufonddujardinestentrainderouiller = 42"
+github:
+  is_project_page: false
