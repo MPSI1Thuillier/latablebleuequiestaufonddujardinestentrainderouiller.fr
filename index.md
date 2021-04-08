@@ -14,14 +14,12 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 
 >Aloooors qu'est-ce qu'il y a de nouveau à la cantine **heeeeehhhh** ?
 
-
 >Le crible, d'ERASTOTHENE !
 
 > J'en **perd** les mots !
 ![Loss](/loss.png "Grande Perte")
 
 ---
-
 
 Cette page a été écrite par l'ensemble de nos généreux contributeurs :
 
