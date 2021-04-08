@@ -12,9 +12,12 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 
 > On va **dépiler**
 
+> J'en **perd** les mots !
+![Loss](/loss.png "Grande Perte")
+
 ---
 
 Cette page a été écrite par l'ensemble de nos généreux contributeurs :
 
 [comment]: <> (N'oubliez pas d'ajouter votre nom ici)
-Nathan F., Antoine A.
+Nathan F., Antoine A., Arthur L.
