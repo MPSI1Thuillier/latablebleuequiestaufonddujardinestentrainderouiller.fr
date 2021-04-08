@@ -6,15 +6,16 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 
 > Allez huuuuuh !
 
-```diff
-+ Et bah voilà hhhhhhhhh
-```
+>Et bah voilà hhhhhhhhh
 
 > On va **dépiler**
 
 >SOUFFRE SALE CHIEN
 
 >Aloooors qu'est-ce qu'il y a de nouveau à la cantine **heeeeehhhh** ?
+
+
+>Le crible, d'ERASTOTHENE !
 
 > J'en **perd** les mots !
 ![Loss](/loss.png "Grande Perte")
@@ -25,4 +26,4 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 Cette page a été écrite par l'ensemble de nos généreux contributeurs :
 
 [comment]: <> (N'oubliez pas d'ajouter votre nom ici)
-Nathan F., Antoine A., Antoine Vi, Emilien BG, Arthur L.
+Nathan F., Antoine A., Antoine Vi, Emilien G. Arthur L.
