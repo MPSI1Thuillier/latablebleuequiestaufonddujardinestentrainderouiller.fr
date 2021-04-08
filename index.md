@@ -24,4 +24,4 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 Cette page a été écrite par l'ensemble de nos généreux contributeurs :
 
 [comment]: <> (N'oubliez pas d'ajouter votre nom ici)
-Nathan F., Antoine A., Antoine Vi, Emilien G. Arthur L.
+Nathan F., Antoine A., Antoine Vi., Emilien G., Arthur L.
