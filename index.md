@@ -6,9 +6,7 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 
 > Allez huuuuuh !
 
-```diff
-+ Et bah voilà hhhhhhhhh
-```
+>Et bah voilà hhhhhhhhh
 
 > On va **dépiler**
 
@@ -16,10 +14,12 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 
 >Aloooors qu'est-ce qu'il y a de nouveau à la cantine **heeeeehhhh** ?
 
+>Le crible, d'ERASTOTHENE !
+
 ---
 
 
 Cette page a été écrite par l'ensemble de nos généreux contributeurs :
 
 [comment]: <> (N'oubliez pas d'ajouter votre nom ici)
-Nathan F., Antoine A., Antoine Vi, Emilien BG
+Nathan F., Antoine A., Antoine Vi., Emilien G.
