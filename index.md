@@ -14,10 +14,12 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 
 >SOUFFRE SALE CHIEN
 
+>Aloooors qu'est-ce qu'il y a de nouveau à la cantine **heeeeehhhh** ?
+
 ---
 
 
 Cette page a été écrite par l'ensemble de nos généreux contributeurs :
 
 [comment]: <> (N'oubliez pas d'ajouter votre nom ici)
-Nathan F., Antoine A., Antoine Vi
+Nathan F., Antoine A., Antoine Vi, Emilien BG
