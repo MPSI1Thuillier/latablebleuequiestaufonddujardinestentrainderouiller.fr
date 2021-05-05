@@ -19,6 +19,7 @@ latablebleuequiestaufonddujardinestentrainderouiller = 42
 > J'en **perd** les mots !
 ![Loss](/loss.png "Grande Perte")
 
+> La dia redona benma locu
 ---
 
 Cette page a été écrite par l'ensemble de nos généreux contributeurs :
